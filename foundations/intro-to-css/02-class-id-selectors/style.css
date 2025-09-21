@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.impar{
+    background-color: rgb(230, 168, 179);
+    font-family: Verdana, Dejavusans, Tahoma, sans-serif;
+}
+
+.thirt{
+    font-size: 24px;
+}
+
+.fourth{
+    background-color: rgb(111, 177, 111);
+    font-weight: bold;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
